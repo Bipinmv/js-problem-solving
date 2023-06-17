@@ -1,5 +1,5 @@
 // Time Complexity : O(n)
-// Space Complexity : O(n)
+// Space Complexity : O(1)
 
 const findSecondLargest = (arr) => {
   let largest = Number.NEGATIVE_INFINITY,
